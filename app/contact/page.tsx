@@ -1,7 +1,7 @@
 export default function ContactPage() {
   return (
     <main className="mx-auto max-w-xl px-6 py-12">
-      <h1 className="text-3xl font-bold">CONTACT v3 — if you don't see this, you're on the wrong file</h1>
+      <h1 className="text-3xl font-bold">Let&apos;s talk</h1>
       <p className="mt-2 text-gray-600">Simple POST form, zero JS.</p>
 
       <form
